@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Practica1_DADM</string>
+    //Pantalla de título
+    <string name="pantallaTitulo">TRIVIA</string>
+    <string name="botonJugar">JUGAR</string>
+    <string name="botonSalir">SALIR</string>
+
+    //Preguntas
+    //Pregunta 1
+    <string name="pregunta1">¿Quién es el más poderoso entre estos personajes de Hunter x Hunter?</string>
+
+    //Pregunta 2
+    <string name="pregunta2">¿Quién es el lider del Shie Hassaikai de Boku No Hero Academia?</string>
+
+    //Pregunta 3
+    <string name="pregunta3">¿Quien es el amor platonico de Denji de Chainsaw Man?</string>
+
+    //Pregunta 4
+    <string name="pregunta4">¿Cómo se llama la maldición que lleva dentro Itadori de Jujutsu Kaisen?</string>
+
+    //Pregunta 5
+    <string name="pregunta5">¿Cuál es el apodo que recibe Mikey de Tokyo Revengers?</string>
+</resources>
