@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Practica1_DADM</string>
     //Pantalla de título
-    <string name="pantallaTitulo">TRIVIA</string>
+    <string name="pantallaTitulo">SHONEN QUIZ</string>
     <string name="botonJugar">JUGAR</string>
     <string name="botonSalir">SALIR</string>
 
