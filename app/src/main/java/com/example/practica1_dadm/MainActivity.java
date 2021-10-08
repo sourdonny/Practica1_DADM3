@@ -20,11 +20,6 @@ public class MainActivity extends AppCompatActivity {
         titleMusic.start();
     }
 
-    /*@Override
-    protected void OnStop(){
-        super.onStop();
-    }*/
-
     public void Jugar(View view){
         Intent pregunta = new Intent(this, Pregunta.class);
         titleMusic.stop();
